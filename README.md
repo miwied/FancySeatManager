@@ -5,7 +5,7 @@ Imagine a restaurant with a big round table surrounded by ***n*** seats. The **F
 <img src="doc/images/FancySeatManager - explanation image.png" alt="FancySeatManager - explanation image"/>
 
 ## implementation 
-I implemented this algorithm in [C#](https://github.com/miwied/FancySeatManager/blob/master/FancySeatManager%20-%20C%23/Program.cs) as a console application and aswell in [JavaScript](https://github.com/miwied/FancySeatManager/blob/master/FancySeatManager%20-%20JavaScript/FancySeatManager.js) with a neat visualization of the seats and groups.
+I implemented this algorithm in [C#](https://github.com/miwied/FancySeatManager/blob/master/FancySeatManager%20-%20C%23/Program.cs) as a console application and aswell in [JavaScript](https://github.com/miwied/FancySeatManager/blob/master/FancySeatManager%20-%20JavaScript/FancySeatManager.js) with a neat visualization of the seats and groups.</br>
 It was a nice programming exercise and an interesting comparison of these two programming languages and the usage of the different implementation options.
 
 ##  features
