@@ -1,0 +1,8 @@
+D:\prj\FancySeatManager\FancySeatManager - C#\bin\Release\FancySeatManager.exe.config
+D:\prj\FancySeatManager\FancySeatManager - C#\bin\Release\FancySeatManager.exe
+D:\prj\FancySeatManager\FancySeatManager - C#\bin\Release\FancySeatManager.pdb
+D:\prj\FancySeatManager\FancySeatManager - C#\obj\Release\FancySeatManager.csproj.AssemblyReference.cache
+D:\prj\FancySeatManager\FancySeatManager - C#\obj\Release\FancySeatManager.csproj.SuggestedBindingRedirects.cache
+D:\prj\FancySeatManager\FancySeatManager - C#\obj\Release\FancySeatManager.csproj.CoreCompileInputs.cache
+D:\prj\FancySeatManager\FancySeatManager - C#\obj\Release\FancySeatManager.exe
+D:\prj\FancySeatManager\FancySeatManager - C#\obj\Release\FancySeatManager.pdb
