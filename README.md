@@ -39,6 +39,10 @@ It was a nice programming exercise and an interesting comparison of these two pr
     <td><img src="doc/images/web application/adding a group with 3 people.png"></td>
     <td><img src="doc/images/web application/not enough space for a group of 5.png"></td>
   </tr>
+    <tr>
+    <td></br></td>
+    <td></br></td>
+  </tr>
   <tr>
     <td>remove group with the id 2</td>
   </tr>
