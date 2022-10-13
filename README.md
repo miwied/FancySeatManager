@@ -2,7 +2,7 @@
 
 Imagine a restaurant with a big round table surrounded by ***n*** seats. The **FancySeatManager** is an algorithm that determines if there are enough contiguous seats for a group of ***x*** people and always selects the most efficient seat so that the restaurant owner can accommodate as many guests as possible.</br></br>
 
-<img src="doc/images/table and seats.png" alt="table and seats" width="300"/></br>
+<img src="doc/images/FancySeatManager - explanation image.png" alt="explanation image" height="350"/></br>
 
 
 ## implementation 
