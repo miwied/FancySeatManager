@@ -1,0 +1,64 @@
+<!--
+miwied - FancySeatManager - october 2022
+https://github.com/miwied/FancySeatManager
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FancySeatManager</title>
+</head>
+
+<body>
+    <div class="content">
+        <header>
+            <!-- title -->
+            <h1>FancySeatManager</h1>
+        </header>
+
+        <!-- buttons / input fields -->
+        <div class="inputs">
+            <!-- create seat button -->
+            <div class="inputBox">
+                <label class="title">Sitze erstellen: </label><br />
+                <input class="input" type="text" id="seatCountTxt" /><br />
+                <button class="btn" type="button" id="seatCountBtn">erstellen</button>
+            </div>
+
+            <!-- add group button -->
+            <div class="inputBox">
+                <label class="title">Gruppe hinzufügen: </label><br />
+                <input class="input" type="text" id="addGroupTxt" /><br />
+                <button class="btn" type="button" id="addGroupBtn">hinzufügen</button>
+            </div>
+
+            <!-- remove group button -->
+            <div class="inputBox">
+                <label class="title">Guppe entfernen: </label><br />
+                <input class="input" type="text" id="removeGroupTxt" /><br />
+                <button class="btn" type="button" id="removeGroupBtn">
+            entfernen
+          </button>
+            </div>
+
+            <!-- reset button -->
+            <button class="resetBtn" type="button" id="resetBtn">reset</button>
+        </div>
+        <br />
+
+        <!-- error / notification text -->
+        <label class="notificationText" id="notificationText"> </label><br />
+
+        <!-- big circle in the middle -->
+        <div id="bigCircle"></div>
+    </div>
+    <!-- javascript file -->
+    <script src="FancySeatManager.js"></script>
+</body>
+
+</html>

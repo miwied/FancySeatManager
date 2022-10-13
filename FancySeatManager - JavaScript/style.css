@@ -1,0 +1,152 @@
+/*
+miwied - FancySeatManager - october 2022
+https://github.com/miwied/FancySeatManager
+*/
+
+
+/* all elements */
+
+body {
+    margin: 2em;
+    font-family: "Open Sans", sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.content {
+    max-width: 700px;
+    margin: auto;
+}
+
+
+/* grey line */
+
+header {
+    padding-bottom: 1em;
+    border-bottom: 2px solid #cfd8dc;
+}
+
+
+/* blue buttons */
+
+.btn {
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    border: none;
+    background-color: #4c7cff;
+    color: white;
+    cursor: pointer;
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+    outline: none;
+}
+
+
+/* button if hover over it */
+
+.btn:hover {
+    background-color: #8aa1e2;
+}
+
+
+/* button if clicked */
+
+.btn:active {
+    background-color: #10245a;
+}
+
+
+/* reset button */
+
+.resetBtn {
+    margin-left: 10px;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    border: none;
+    background-color: #e27696;
+    color: white;
+    cursor: pointer;
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+    outline: none;
+}
+
+
+/* reset-button if hover over it */
+
+.resetBtn:hover {
+    background-color: #e2a6b8;
+}
+
+
+/* reset-button if clicked */
+
+.resetBtn:active {
+    background-color: #753549;
+}
+
+
+/* title */
+
+.title {
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+}
+
+
+/* notification text */
+
+.notificationText {
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+
+/* inputs / buttons */
+
+.inputs {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+
+/* single input box */
+
+.inputBox {
+    padding: 10px;
+}
+
+
+/* big circle / "table" */
+
+#bigCircle {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    background-color: rgb(163, 101, 7);
+    margin: 0 auto;
+    margin-top: 120px;
+}
+
+
+/* small circle / "seat" */
+
+.smallCircle {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-color: grey;
+    border-radius: 100px;
+}
