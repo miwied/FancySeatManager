@@ -54,8 +54,8 @@ It was a nice programming exercise and an interesting comparison of these two pr
     <td>adding a group of 3 people</td>
   </tr>
   <tr>
-    <td><img src="doc/images/c# console application/setting the number of seats.png"></td>
-    <td><img src="doc/images/c# console application/adding a group with 3 people.png"></td>
+    <td><img src="doc/images/console application/setting the number of seats.png"></td>
+    <td><img src="doc/images/console application/adding a group with 3 people.png"></td>
   </tr>
   <tr>
     <td></br></td>
@@ -65,6 +65,6 @@ It was a nice programming exercise and an interesting comparison of these two pr
     <td>remove group with the id 2</td>
   </tr>
   <tr>
-    <td><img src="doc/images/c# console application/remove the group with the id 2.png"></td>
+    <td><img src="doc/images/console application/remove the group with the id 2.png"></td>
   </tr>
  </table>
