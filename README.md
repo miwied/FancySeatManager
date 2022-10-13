@@ -14,6 +14,7 @@ It was a nice programming exercise and an interesting comparison of these two pr
 - adding a group of x people
 - auto generated incremental group-id
 - remove a group with the corresponding group-id
+- notification when group is set or no more space is available
 
 ## javascript web application pictures
 
@@ -23,8 +24,8 @@ It was a nice programming exercise and an interesting comparison of these two pr
      <td>create 20 seats</td>
   </tr>
   <tr>
-    <td><img src="doc/images/js web application/default screen.png"></td>
-    <td><img src="doc/images/js web application/setting the number of seats.png"></td>
+    <td><img src="doc/images/web application/default screen.png"></td>
+    <td><img src="doc/images/web application/setting the number of seats.png"></td>
   </tr>
   <tr>
     <td></br></td>
@@ -35,14 +36,14 @@ It was a nice programming exercise and an interesting comparison of these two pr
     <td>not enough space anymore</td>
   </tr>
   <tr>
-    <td><img src="doc/images/js web application/adding a group with 3 people.png"></td>
-    <td><img src="doc/images/js web application/not enough space for a group of 5.png"></td>
+    <td><img src="doc/images/web application/adding a group with 3 people.png"></td>
+    <td><img src="doc/images/web application/not enough space for a group of 5.png"></td>
   </tr>
   <tr>
     <td>remove group with the id 2</td>
   </tr>
   <tr>
-    <td><img src="doc/images/js web application/remove the group with the id 2.png"></td>
+    <td><img src="doc/images/web application/remove the group with the id 2.png"></td>
   </tr>
  </table>
  
