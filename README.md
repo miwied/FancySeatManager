@@ -10,7 +10,61 @@ It was a nice programming exercise and an interesting comparison of these two pr
 
 ##  features
 
-- setting the number of seats
-- adding a group with x people
+- setting a number of n seats
+- adding a group of x people
 - auto generated incremental group-id
 - remove a group with the corresponding group-id
+
+## javascript web application pictures
+
+<table>
+  <tr>
+    <td>main view</td>
+     <td>create 20 seats</td>
+  </tr>
+  <tr>
+    <td><img src="doc/images/js web application/default screen.png"></td>
+    <td><img src="doc/images/js web application/setting the number of seats.png"></td>
+  </tr>
+  <tr>
+    <td></br></td>
+    <td></br></td>
+  </tr>
+  <tr>
+    <td>adding a group of 3 people</td>
+    <td>not enough space anymore</td>
+  </tr>
+  <tr>
+    <td><img src="doc/images/js web application/adding a group with 3 people.png"></td>
+    <td><img src="doc/images/js web application/not enough space for a group of 5.png"></td>
+  </tr>
+  <tr>
+    <td>remove group with the id 2</td>
+  </tr>
+  <tr>
+    <td><img src="doc/images/js web application/remove the group with the id 2.png"></td>
+  </tr>
+ </table>
+ 
+ ## c# console application pictures
+ 
+ <table>
+  <tr>
+    <td>create 10 seats</td>
+    <td>adding a group of 3 people</td>
+  </tr>
+  <tr>
+    <td><img src="doc/images/c# console application/setting the number of seats.png"></td>
+    <td><img src="doc/images/c# console application/adding a group with 3 people.png"></td>
+  </tr>
+  <tr>
+    <td></br></td>
+    <td></br></td>
+  </tr>
+  <tr>
+    <td>remove group with the id 2</td>
+  </tr>
+  <tr>
+    <td><img src="doc/images/c# console application/remove the group with the id 2.png"></td>
+  </tr>
+ </table>
